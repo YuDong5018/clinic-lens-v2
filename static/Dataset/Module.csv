@@ -1,0 +1,31 @@
+Name,Importance,Model
+Time-series 51.86%,0.5186,randomforest
+Pop.Density 6.04%,0.0604,randomforest
+Clinic Count 0.36%,0.0036,randomforest
+Day of Week 1.44%,0.0144,randomforest
+Event Level 3.95%,0.0395,randomforest
+AgeLimit 0%,0,randomforest
+Seasons 0.99%,0.0099,randomforest
+Wheelchair Accessible 1.23%,0.0123,randomforest
+Walk-in Allowed 0.53%,0.0053,randomforest
+Booking Required 1.81%, 0.0181,randomforest
+Open Hours/Past 3 Days 0.126%, 0.0126,randomforest
+Break Hours/Past 3 Days 0.52%, 0.0052,randomforest
+Drive Though 0.78%, 0.0078,randomforest
+Referral Required 0%, 0,randomforest
+Open Hours/Week 29.24%, 0.2924,randomforest
+Time-series 12.75%,0.1275,xgboost
+Pop.Density 3.45%,0.0345,xgboost
+Clinic Count 1.86%,0.0186,xgboost
+Day of Week 1.42%,0.0142,xgboost
+Event Level 8.73%,0.0873,xgboost
+AgeLimit 0.18%,0.0018,xgboost
+Seasons 1.02%,0.0102,xgboost
+Wheelchair Accessible 6.25%,0.0625,xgboost
+Walk-in Allowed 9.15%,0.0915,xgboost
+Booking Required 13.59%, 0.1359,xgboost
+Open Hours/Past 3 Days 0.83%, 0.0083,xgboost
+Break Hours/Past 3 Days 0.31%, 0.0031,xgboost
+Drive Though 1.56%, 0.0156,xgboost
+Referral Required 0.25%, 0.0025,xgboost
+Open Hours/Week 38.64%, 0.3864,xgboost
